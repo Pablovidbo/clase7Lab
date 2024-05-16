@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Frank",
+        "foto": "img/img1.jpeg",
+        "edad": 13,
+        "dni": "76452830",
+        "estado_civil": "soltero"
+    },
+    {
+        "id": 2,
+        "name": "Laura",
+        "foto": "img/img2.jpeg",
+        "edad": 25,
+        "dni": "12345678",
+        "estado_civil": "casada"
+    },
+    {
+        "id": 3,
+        "name": "Carlos",
+        "foto": "img/img3.jpeg",
+        "edad": 30,
+        "dni": "87654321",
+        "estado_civil": "divorciado"
+    },
+    {
+        "id": 4,
+        "name": "Ana",
+        "foto": "img/img4.jpeg",
+        "edad": 22,
+        "dni": "11223344",
+        "estado_civil": "soltera"
+    },
+    {
+        "id": 5,
+        "name": "Miguel",
+        "foto": "img/img5.jpeg",
+        "edad": 28,
+        "dni": "44332211",
+        "estado_civil": "casado"
+    },
+    {
+        "id": 6,
+        "name": "Sofia",
+        "foto": "img/img6.jpeg",
+        "edad": 35,
+        "dni": "55667788",
+        "estado_civil": "viuda"
+    },
+    {
+        "id": 7,
+        "name": "Jorge",
+        "foto": "img/img7.jpeg",
+        "edad": 40,
+        "dni": "66778899",
+        "estado_civil": "soltero"
+    }
+]
